@@ -1,7 +1,8 @@
 name: bhaktimart_ui
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "Bhaktimart's UI library."
+version: 1.0.1
+homepage: https://github.com/Bhaktimart-shop/bhaktimart_ui
+publish_to: none
 
 environment:
   sdk: ^3.8.1
