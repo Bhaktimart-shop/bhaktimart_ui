@@ -15,7 +15,7 @@ class WidgetbookApp extends StatelessWidget {
     addons: [
       ThemeAddon<BhaktimartTheme>(
         themes: [
-          WidgetbookTheme(name: 'Bhaktimart', data: BhaktimartTheme.bhaktimart),
+          WidgetbookTheme(name: 'Bhaktimart', data: BhaktimartTheme.main),
         ],
         themeBuilder: (context, theme, child) =>
             Theme(data: theme.themeData, child: child),
