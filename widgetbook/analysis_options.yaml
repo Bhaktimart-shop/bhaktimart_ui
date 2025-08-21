@@ -1,0 +1,6 @@
+include: package:flutter_bhaktimart_lints/bhaktimart_lints.yaml
+
+dart_code_metrics:
+  rules:
+    - avoid-returning-widgets: false
+    - avoid-long-functions: false
